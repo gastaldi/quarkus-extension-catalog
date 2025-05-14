@@ -3,4 +3,5 @@ group-id: "io.quarkiverse.couchbase"
 artifact-id: "quarkus-couchbase"
 exclude-versions: []
 versions:
+- "1.1.0"
 - "1.0.0"
